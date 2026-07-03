@@ -21,7 +21,7 @@ function App() {
         <section id="hero" className="section hero-section">
           <div className="container hero-layout">
             <div className="hero-content">
-              <p className="eyebrow">轉職導向個人品牌網站</p>
+              <p className="eyebrow">個人品牌網站</p>
 
               <h1 className="hero-title">
                 <span>不是因為厲害才開始，</span>
